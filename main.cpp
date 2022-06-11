@@ -1,5 +1,7 @@
 #include "Window.hpp"
-#include "RectangleShape.hpp"
+//#include "RectangleShape.hpp"
+//To include RectangleShape, we do:
+#include <SFML/Graphics/RectangleShape.hpp>
 
 int main(int argc, char** argv)
 {
